@@ -37,5 +37,24 @@ section{
 
 div#imagem{
     background-color: white;
+}
 
+div#form{
+    margin:auto;
+    text-align: center;
+}
+
+div#isenha{
+    text-align: center;
+}
+
+div#imail{
+    text-align: center;
+}
+
+#login{
+background-color: rgb(233, 229, 224) ;
+margin: auto;
+width: 100px;
+border-radius: 10px;
 }
