@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(darkgray);
+}
+
+*{
+    margin: 0px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+section{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: white;
+    width: 320px;
+    height: 500px;
+    border-radius: 20px;
+    overflow: hidden;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+section>h1{
+    text-align: center;}
+
+section{
+    background-image: url(imagens/login-screen.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+div#imagem{
+    background-color: white;
+
+}
