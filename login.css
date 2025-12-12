@@ -2,6 +2,11 @@
 
 body{
     background-image: linear-gradient(darkgray);
+    background-image: url(imagens/coding-room.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 *{
